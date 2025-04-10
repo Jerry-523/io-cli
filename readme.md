@@ -2,7 +2,7 @@
 
 Uma ferramenta interativa em Node.js que calcula **pontos admissíveis** a partir de um sistema de **restrições lineares** e **exibe visualmente o resultado** com um gráfico.
 
-Ideal para estudantes de Pesquisa Operacional, Engenharia ou áreas relacionadas.
+Ideal para estudantes de Investigação Operacional, Engenharia ou áreas relacionadas.
 
 ---
 
