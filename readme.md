@@ -74,21 +74,6 @@ Digite a, b e c (ou pressione Enter para terminar):
 
 ---
 
-## 🗂 Estrutura do Projeto
-
-```
-io-cli/
-├── bin/
-│   └── index.js              # CLI principal
-├── core/
-│   ├── constraints.js        # Lógica de verificação e interseções
-│   ├── utils.js              # Resolução de sistemas lineares
-│   └── plot.js               # Visualização com nodeplotlib
-├── package.json
-```
-
----
-
 ## 📚 Como funciona?
 
 - O usuário insere inequações do tipo `ax + by <= c`
