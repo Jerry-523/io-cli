@@ -1,0 +1,20 @@
+{
+  "name": "io-cli",
+  "version": "1.0.0",
+  "description": "CLI para calcular pontos admissíveis em Investigação Operacional",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "iocalc": "./bin/index.js"
+  },
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pericles Borges",
+  "license": "ISC",
+  "dependencies": {
+    "nodeplotlib": "^0.7.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
