@@ -111,7 +111,3 @@ A visualização é feita com [nodeplotlib](https://www.npmjs.com/package/nodepl
 
 
 ---
-
-```
-
-
